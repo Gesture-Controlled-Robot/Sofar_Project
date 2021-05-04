@@ -19,7 +19,7 @@ Below is the software Architecture of the whole project, out if this our sub gro
 2) Robot Controller 
 3) Path Planning 
 
-![alt text](https://https://github.com/Gesture-Controlled-Robot/Sofar_Project/blob/master/SofAr%20ROS%20Architecture.png?raw=true)
+![alt text](https://github.com/Gesture-Controlled-Robot/Sofar_Project/blob/master/SofAr%20ROS%20Architecture.png?raw=true)
 
 ### Installation and Running Procedures:
 
