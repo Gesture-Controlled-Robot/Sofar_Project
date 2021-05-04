@@ -11,6 +11,16 @@ This folder also contains the launch file and the custom message folder.
 
 Final target as a coordinate published on move_base server.
 
+### Software Architecture
+
+Below is the software Architecture of the whole project, out if this our sub group worked on the below three modules. 
+
+1) Rigid Body Detector
+2) Robot Controller 
+3) Path Planning 
+
+![alt text](https://https://github.com/Gesture-Controlled-Robot/Sofar_Project/blob/master/SofAr%20ROS%20Architecture.png?raw=true)
+
 ### Installation and Running Procedures:
 
 For running the three modules, first clone the entire repository that will also include the supporting packages; ‘planning’ and ‘gmapping’.
